@@ -1,0 +1,44 @@
+.main{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   
+}
+.btn{
+    border: none;
+    background-color: rgb(177, 196, 196);
+    padding: 20px;
+    width: 110px;
+    border-radius: 5px;
+}
+.main-contain{
+    text-align: start;
+    margin-left:200px;
+    margin-top: 100px;
+}
+.main-contain h1{
+font-size: 70px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.colour{
+    color: blue;
+}
+.img-contain img{
+    width:500px;
+    
+}
+.img-contain{
+  margin-right: 50px;
+}
+.review{
+    margin-left: 100px;
+}
+.review-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+.read-more{
+    text-align: end;
+    margin-right: 50px;
+    margin-top: 0;
+}

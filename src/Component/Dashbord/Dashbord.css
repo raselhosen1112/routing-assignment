@@ -1,0 +1,11 @@
+.chart-container{
+   display: grid;
+   grid-template-columns: 2fr 2fr;
+    margin: 50px;
+    padding: 50px;
+}
+.chart{
+    margin-right: 50px;
+    border: 1px solid gainsboro;
+    margin-top: 20px;
+}

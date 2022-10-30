@@ -1,0 +1,13 @@
+.navbar a{
+    text-decoration-line: underline;
+    margin: 10px;
+    color:black;
+    padding: 5px;
+   
+}
+.navbar{
+    margin-top: 20px;
+}
+.navbar a:hover{
+    color: brown;
+}
